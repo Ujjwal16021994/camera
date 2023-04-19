@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "515713084870",
+    "project_id": "take-picture-4f7b2",
+    "storage_bucket": "take-picture-4f7b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515713084870:android:e6f9e1cbf1dfd8575356c7",
+        "android_client_info": {
+          "package_name": "com.example.takepicture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515713084870-ivlfaejj9kon46kli8p30u05o8hnhsv5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwXZmuvvIKjiQz_nTi7pZ4NoXLi76DYGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515713084870-ivlfaejj9kon46kli8p30u05o8hnhsv5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
